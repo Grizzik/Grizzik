@@ -7,13 +7,12 @@
 <br>
 
 <div align="center">
+  <h3>CTF Platforms</h3>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Grizzik&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most used languages" />
+    <a href="https://tryhackme.com/p/Grizzik" target="_blank">TryHackMe</a> | 
+    <a href="https://www.root-me.org/Grizzik" target="_blank">Root-Me</a>
   </p>
 </div>
-
-<br>
-
 
 <div align="center">
   <h3>Connect with me:</h3>
@@ -22,3 +21,13 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </p>
 </div>
+
+
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Grizzik&show_icons=true&theme=dark&locale=en&layout=compact" alt="Most used languages" />
+  </p>
+</div>
+
+<br>
+
