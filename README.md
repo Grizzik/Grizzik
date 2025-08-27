@@ -22,8 +22,3 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </p>
 </div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Grizzik/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
-
